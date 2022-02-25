@@ -10,3 +10,4 @@ List of Labs:
   - Lab 6: Binary Trees
   - Lab 7: Image Brightness Controls and Minimum-energy Calculations
   - Lab 8: AVL Trees
+  - Lab 9: Neural Networks
